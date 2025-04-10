@@ -161,7 +161,7 @@ To do that:
 
    - Set up jailbreak detection.
 
-   - <img width="658" alt="ISO I" src="https://github.com/user-attachments/assets/4bc34302-a156-47e6-8b29-9fc918ee83fa" />
+   - <img width="952" alt="ISO 9" src="https://github.com/user-attachments/assets/e52be5dd-a516-41df-ac1e-000020f1aec9" />
 
    - Navigate to **Endpoint security** > **Manage** > **conditional access policies**.
 
